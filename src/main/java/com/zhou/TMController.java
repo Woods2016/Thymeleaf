@@ -6,4 +6,7 @@ package com.zhou;
  * @Date: 2017/9/3
  */
 public class TMController {
+    public void getTest(){
+        System.out.println("this is master");
+    }
 }
