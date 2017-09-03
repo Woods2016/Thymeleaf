@@ -7,6 +7,7 @@ package com.zhou;
  */
 public class TMController {
     public void getTest(){
-        System.out.println("this is base!");
+        System.out.println("this is base!!");
+        System.out.println("v1.0");
     }
 }
